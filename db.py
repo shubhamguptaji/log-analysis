@@ -1,3 +1,5 @@
+#!/usr/bin/env python2.7
+
 import psycopg2
 # imports psycopg2 module
 
